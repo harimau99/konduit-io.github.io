@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7653767-6269-43e1-9537-3c7b1073b22f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/blog/2016/03/11/blog-post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2016/03/11/blog-post/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/04/10/blog-post-two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/04/10/blog-post-two/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/09/25/testing-rss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/09/25/testing-rss/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/09/26/adding-rss.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/09/26/adding-rss/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/10/24/new-version-1.0.0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/2017/10/24/new-version-1.0.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/atom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/prism.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc4/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/doc5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/help/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/users/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/help/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/language.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/oss_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_code_review.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_monitor.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_note_list.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_online.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_open_source.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_operating_system.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_react.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_tweetstorm.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/undraw_youtube_tutorial.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/codetabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scrollSpy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/index.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RIHUkiP5aTJzuuKqQJmDTy917H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/website" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/website" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7653767-6269-43e1-9537-3c7b1073b22f" name="Default Changelist" comment="" />
+      <created>1569347707117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569347707117</updated>
+      <workItem from="1569347711822" duration="237000" />
+      <workItem from="1569348440841" duration="2217000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
